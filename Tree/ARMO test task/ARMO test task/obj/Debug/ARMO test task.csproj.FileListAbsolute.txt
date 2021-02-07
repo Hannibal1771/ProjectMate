@@ -1,0 +1,10 @@
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\bin\Debug\ARMO test task.exe.config
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\bin\Debug\ARMO test task.exe
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\bin\Debug\ARMO test task.pdb
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\obj\Debug\ARMO test task.csprojAssemblyReference.cache
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\obj\Debug\ARMO_test_task.Form1.resources
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\obj\Debug\ARMO_test_task.Properties.Resources.resources
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\obj\Debug\ARMO test task.csproj.GenerateResource.cache
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\obj\Debug\ARMO test task.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\obj\Debug\ARMO test task.exe
+C:\Users\Vladimir Unwavering\source\repos\ARMO test task\ARMO test task\obj\Debug\ARMO test task.pdb
