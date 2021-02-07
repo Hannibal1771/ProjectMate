@@ -1,0 +1,36 @@
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\bin\Debug\Company.exe.config
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\bin\Debug\Company.exe
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\bin\Debug\Company.pdb
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\App.g.cs
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\Company_MarkupCompile.cache
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\Company_MarkupCompile.lref
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\MainWindow.baml
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\Company.g.resources
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\Company.Properties.Resources.resources
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\Company.csproj.GenerateResource.cache
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\Company.exe
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\Company.pdb
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\RegAuth.g.cs
+C:\Users\Vladimir Unwavering\source\repos\Company\Company\obj\Debug\RegAuth.baml
+C:\Users\1\Downloads\Company\Company\Company\bin\Debug\Company.exe.config
+C:\Users\1\Downloads\Company\Company\Company\bin\Debug\Company.exe
+C:\Users\1\Downloads\Company\Company\Company\bin\Debug\Company.pdb
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\Company.csprojAssemblyReference.cache
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\MainWindow.g.cs
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\RegAuth.g.cs
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\App.g.cs
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\Company_MarkupCompile.cache
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\Company_MarkupCompile.lref
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\MainWindow.baml
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\RegAuth.baml
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\Company.g.resources
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\Company.Properties.Resources.resources
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\Company.csproj.GenerateResource.cache
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\Company.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\Company.exe
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\Company.pdb
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\General.g.cs
+C:\Users\1\Downloads\Company\Company\Company\obj\Debug\General.baml
